@@ -1,3 +1,6 @@
+hello world
+
+
 Pick up file from Incoming folder
 split the file in java and multos
 Move file to Input folder
