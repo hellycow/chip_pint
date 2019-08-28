@@ -4,4 +4,4 @@ Move file to Input folder
 Token Manager pickup file
 Generate output file
 merge the java and multos file.
-Send to EBX with exit code 0
+backup the incomfing file in arhive folder
